@@ -16,3 +16,15 @@ To run this application, you will need to have Java 8 or later installed on your
 * Follow the prompts to log in and use the application.
 
 # Usage:
+* Create batch
+* Update batch
+* Assign faculty to batch
+* View batch details by ID
+* View batch details by faculty ID
+* View all batches
+* Delete batch
+* Exit
+To choose an option, enter the corresponding number and press Enter. Follow the prompts to input the required information for each option.
+
+# Credits:
+This application was created by Suraj Kumar Sharma as a project for JA111 at MASAI SCHOOL.
