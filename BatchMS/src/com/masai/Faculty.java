@@ -1,5 +1,7 @@
 package com.masai;
 
+import java.util.List;
+
 public class Faculty {
     private String id;
     private String name;
@@ -45,7 +47,8 @@ public class Faculty {
         this.password = password;
     }
 
-    public void viewAssignedBatches() {
+    public List<FacultyBatchMapping> viewAssignedBatches() {
+        return null;
         // TODO: Implement method to view assigned batches
     }
 
