@@ -137,8 +137,9 @@ public class Administrator {
             faculties = (Map<String, Faculty>) in.readObject();
             in.close();
             fileIn.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("No saved data found.");
+        } 
+        catch (FileNotFoundException e) {
+            // System.out.println("No saved data found.");
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
