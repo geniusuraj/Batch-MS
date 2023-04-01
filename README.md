@@ -27,4 +27,4 @@ To run this application, you will need to have Java 8 or later installed on your
 To choose an option, enter the corresponding number and press Enter. Follow the prompts to input the required information for each option.
 
 # Credits:
-This application was created by [Suraj Kumar Sharma](https://geniusuraj.in) as a project for JA111 at MASAI SCHOOL.
+This application was created by [Suraj Kumar Sharma](https://geniusuraj.in) as a project for JA111 at [MASAI SCHOOL](https://www.masaischool.com/).
