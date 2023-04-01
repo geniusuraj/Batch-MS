@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Main {
 
  public static void main(String[] args) {
+    System.out.println("|-------------------------------------------|");
+    System.out.println("Welcome to Batch Management System - BatchMS!");
+    System.out.println("|-------------------------------------------|");
      Administrator admin = new Administrator();
      admin.loadDataFromFile("BatchMS.txt");
 
@@ -30,7 +33,7 @@ public class Main {
          System.out.println("5. View batch details by faculty ID");
          System.out.println("6. View all batches");
          System.out.println("7. Delete batch");
-         System.out.println("8. Exit");
+         System.out.println("8. Logout");
          int choice = scanner.nextInt();
          scanner.nextLine();
          switch (choice) {
