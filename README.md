@@ -1,6 +1,6 @@
 # enchanting-powder-661
 ## Domain Description:  
-In an educational Institute, there are several batches running every day for  same/different batches. It will be difficult for the Faculties and admin to know the status  of every batch. So the Automated Batch management System will of which batch is  assigned to which faculty.
+In an educational institute, there are several batches running every day for the same/different batches. It will be difficult for the faculties and admin to know the status of every batch. Therefore, the Automated Batch Management System will inform which batch is assigned to which faculty.
 
 # Automated Batch Management System: Batch-MS
 This is a command-line application that allows an administrator to manage batches of courses and assign faculties to them.
